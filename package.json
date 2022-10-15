@@ -1,0 +1,22 @@
+{
+  "name": "study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rudnev-01/TestNodeApp.git"
+  },
+  "author": "Rudnev-Maksim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rudnev-01/TestNodeApp/issues"
+  },
+  "homepage": "https://github.com/Rudnev-01/TestNodeApp#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
